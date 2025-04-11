@@ -11,7 +11,7 @@ export default function HomePage() {
         <p className="text-lg mb-6 max-w-xl mx-auto">
           We provide top-notch AI solutions and web development services to help businesses grow smarter and faster.
         </p>
-        <Button className="bg-indigo-600 hover:bg-indigo-700 text-white">Let's Build Together</Button>
+        <Button className="bg-indigo-600 hover:bg-indigo-700 text-white">Lets Build Together</Button>
       </section>
 
       {/* Features Section */}
@@ -50,7 +50,7 @@ export default function HomePage() {
       {/* Call to Action */}
       <section className="bg-indigo-600 text-white py-16 text-center">
         <h2 className="text-3xl font-bold mb-4">Ready to get started?</h2>
-        <p className="mb-6">Let's discuss your idea and turn it into reality.</p>
+        <p className="mb-6">Lets discuss your idea and turn it into reality.</p>
         <a href="mailto:your@email.com" className="bg-white text-indigo-700 font-medium px-6 py-2 rounded hover:bg-gray-200">
           Contact Us
         </a>

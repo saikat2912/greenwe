@@ -1,12 +1,11 @@
 import React from 'react';
-import { Button } from "@/component/ui/button";
 export default function ContactPage() {
     return (
       <div className="min-h-screen bg-white px-6 py-16 text-gray-900">
         <div className="max-w-2xl mx-auto">
           <h1 className="text-4xl font-bold mb-4 text-indigo-700">Contact Us</h1>
           <p className="text-lg mb-10 text-gray-600">
-            Have a project in mind? Let's connect! Fill out the form below and we'll get back to you within 24 hours.
+            Have a project in mind? Lets connect! Fill out the form below and well get back to you within 24 hours.
           </p>
   
           <form className="space-y-6">
